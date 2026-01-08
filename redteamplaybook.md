@@ -1,4 +1,4 @@
-# [title:red team playbook]Red Team Playbook: Testing for Context Poisoning Vulnerabilities
+# Red Team Playbook: Testing for Context Poisoning Vulnerabilities
 
 Introduction: A New Frontier in Adversarial Testing
 
