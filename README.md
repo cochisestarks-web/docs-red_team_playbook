@@ -1,5 +1,4 @@
 # LLM Adversarial Evaluation Framework
-# LLM Adversarial Evaluation Framework
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cochisestarks-web/docs-red_team_playbook)
 ![GitHub](https://img.shields.io/github/license/cochisestarks-web/docs-red_team_playbook)
